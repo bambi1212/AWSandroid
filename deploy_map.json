@@ -43,5 +43,15 @@
             "github_repo_name": "",
             "github_repo_owner": ""
         }
+
+        
+        {
+            "aws_account_number": "730335555560",
+            "branch": "aws/",
+            "dns_domain": "",
+            "dns_domain_map_root": false,
+            "github_repo_name": "AWSandroid",
+            "github_repo_owner": "bambi1212"
+        }
     ]
 }
